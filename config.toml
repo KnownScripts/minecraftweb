@@ -60,7 +60,7 @@ weight = 20
 [[menu.main]]
 identifier = "github"
 name = "Server list"
-url = ""
+url = "https://craftlist.org/poisteserver"
 weight = 100
 
 
